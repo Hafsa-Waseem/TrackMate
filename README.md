@@ -1,4 +1,5 @@
 TrackMate
+
 TrackMate is a powerful location tracking app developed using Android SDK and Java. This application allows users to easily track real-time locations, manage groups, share locations, and receive emergency alerts. With its user-friendly interface and robust features, TrackMate aims to enhance safety and convenience for its users.
 
 Features
